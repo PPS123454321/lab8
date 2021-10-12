@@ -1,0 +1,253 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p{
+    margin: 0;
+}
+
+.startpage{
+    background: url("fon_main.png");
+    width: 1519px;
+    height: 753px;
+}
+
+.h_divergent{
+    color: white;
+    font-weight: 700;
+    font-size: 96px;
+    font-style: italic;
+    padding-top: 30%;
+    text-align: center;
+    text-shadow: 7px 5px 4px rgba(78, 64, 46, 0.4);
+}
+
+.quote{
+    color: white;
+    font-weight: 700;
+    font-size: 56px;
+    padding-top: 3%;
+    text-align: center;
+    text-shadow: 5px 5px 4px rgba(78, 64, 46, 0.4);
+}
+
+.page1{
+    background: url("page1.png");
+    height: 753px;
+}
+
+.for_page1_text{
+    padding-top: 130px;
+}
+
+.page1_text{
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    font-size: 32px;
+    width: 500px;
+    padding: 20px;
+    margin-left: 80px;
+}
+
+.page2{
+    background: url("page2.png");
+    height: 753px;
+}
+
+.for_page2_text{
+    padding-top: 165px;
+}
+
+.page2_text{
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    font-size: 32px;
+    width: 500px;
+    padding: 20px;
+    margin-left: 80px;
+}
+
+.amity{
+    background: url("amity.png");
+    height: 753px;
+}
+
+.amity_flex{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.amity_text{
+    color: white;
+    font-size: 28px;
+    width: 600px;
+    padding: 60px 80px;
+}
+
+.amity_h_and_e{
+    padding: 30px 80px;
+}
+
+.amity_h{
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.amity_e{
+    padding-top: 30px;
+}
+
+.erudite{
+    background: url("erudite.png");
+    height: 753px;
+}
+
+.erudite_flex{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.erudite_h_and_e{
+    padding: 30px 80px;
+}
+
+.erudite_h{
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.erudite_e{
+    padding-top: 40px;
+}
+
+.erudite_text{
+    color: white;
+    font-size: 28px;
+    width: 600px;
+    padding: 60px 80px;
+}
+
+.abnegation{
+    background: url("abnegation.png");
+    height: 753px;
+}
+
+.abnegation_flex{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.abnegation_text{
+    color: white;
+    font-size: 24px;
+    width: 600px;
+    padding: 60px 80px;
+}
+
+.abnegation_h_and_e{
+    padding: 30px 80px;
+}
+
+.abnegation_h{
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.abnegation_e{
+    padding-top: 30px;
+}
+
+.candor{
+    background: url("candor.png");
+    height: 753px;
+}
+
+.candor_flex{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.candor_h_and_e{
+    padding: 30px 80px;
+}
+
+.candor_h{
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.candor_e{
+    padding-top: 40px;
+}
+
+.candor_text{
+    color: white;
+    font-size: 28px;
+    width: 600px;
+    padding: 80px 80px;
+}
+
+.dauntless{
+    background: url("dauntless.png");
+    height: 753px;
+}
+
+.dauntless_flex{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.dauntless_text{
+    color: white;
+    font-size: 28px;
+    width: 600px;
+    padding: 90px 80px;
+}
+
+.dauntless_h_and_e{
+    padding: 30px 80px;
+}
+
+.dauntless_h{
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.dauntless_e{
+    padding-top: 30px;
+}
+
+.final_page{
+    background: url("final_page.png");
+    height: 753px;
+}
+
+.for_final_text{
+    padding-top: 10%;
+}
+
+.final_text{
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    font-size: 32px;
+    font-weight: 700;
+    width: 500px;
+    padding: 20px;
+    margin-left: 55%;
+}
